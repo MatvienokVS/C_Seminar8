@@ -1,0 +1,15 @@
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\bin\Debug\net7.0\Ex4.exe
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\bin\Debug\net7.0\Ex4.deps.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\bin\Debug\net7.0\Ex4.runtimeconfig.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\bin\Debug\net7.0\Ex4.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\bin\Debug\net7.0\Ex4.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.csproj.AssemblyReference.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfoInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfo.cs
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.csproj.CoreCompileInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\refint\Ex4.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\Ex4.genruntimeconfig.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex4\obj\Debug\net7.0\ref\Ex4.dll

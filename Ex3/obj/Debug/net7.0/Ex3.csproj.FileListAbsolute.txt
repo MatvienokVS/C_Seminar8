@@ -1,0 +1,15 @@
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.csproj.AssemblyReference.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.AssemblyInfoInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.AssemblyInfo.cs
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.csproj.CoreCompileInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\bin\Debug\net7.0\Ex3.exe
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\bin\Debug\net7.0\Ex3.deps.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\bin\Debug\net7.0\Ex3.runtimeconfig.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\bin\Debug\net7.0\Ex3.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\bin\Debug\net7.0\Ex3.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\refint\Ex3.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\Ex3.genruntimeconfig.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar8\Ex3\obj\Debug\net7.0\ref\Ex3.dll
